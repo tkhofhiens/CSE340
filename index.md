@@ -1,10 +1,16 @@
-## CSE 340 Course Work
+## Tiffany H
 
-You can use the [editor on GitHub](https://github.com/tkhofhiens/CSE340/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Enhancements
+1. Setup and Introduction
+2. Enhancement
+3. Enhancement
+4. Enhancement
+5. Enhancement
+6. Enhancement
+7. Enhancement
+8. Enhancement
+9. Enhancement
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
